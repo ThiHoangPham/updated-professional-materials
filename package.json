@@ -4,10 +4,10 @@
   "description": "Building a full-stack web application and have another project to share, and Updating my portfolio page and other materials to build toward being employer-competitive.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
   },
   "author": "Thai Hoang (ADAM)",
-  "license": "ISC",
+  "license": "GNU",
   "dependencies": {
     "node-sass": "^6.0.1"
   }
