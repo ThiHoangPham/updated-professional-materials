@@ -12,6 +12,7 @@ $background-opacity: 0.9;
   @if $show-home-image {
     &#bg-img {
       background: $home-image;
+
       background-attachment: fixed;
       background-size: cover;
 
@@ -26,6 +27,15 @@ $background-opacity: 0.9;
         background: rgba($primary-color, $background-opacity);
       }
     }
+  }
+}
+
+// set text color
+@function set-text-color($color){
+  @if (lightness($color) > 40){
+    @return #000;
+  } @else{
+    @return #fff;
   }
 }
 
