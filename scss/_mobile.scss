@@ -1,11 +1,9 @@
 // widescreens
 @include mediaXl{
-
 }
 
 // desktops & laptops
-@include mediaLg{
-    
+@include mediaLg{  
 }
 
 // tables & small laptops
@@ -13,14 +11,9 @@
     main{
         align-items: center;
         text-align: center;
-        .lg-heading{
-            line-height: 1px;
-            margin-bottom: 1rem;
-        }
     }
 }
 
-// smartphones
+// desktops & laptops
 @include mediaSm{
-    
 }
