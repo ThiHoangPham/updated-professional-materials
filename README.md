@@ -1,3 +1,4 @@
+![Updated Professional Materials](./dist/img/mockup-page.png)
 <h1 align="center"> Updated Professional Materials 🚩</h1>
 <br>
 <p align="center">
