@@ -84,7 +84,7 @@
 ```
 
 # Live Deployment 
-<a href="https://thihoangpham.github.io/updated-professional-materials/index.html">
+<a href="https://thihoangpham.github.io/updated-professional-materials/">
   <img alt="live github heroku" src="https://img.shields.io/badge/Demo-GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
 
